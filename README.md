@@ -4,7 +4,7 @@ Bookmark get all comment facebook
 
 Notice: It is utils, support get all comment facebook and uuid name
 
-# Guilde use file
+# Usage
 
 Option 1:
   1. Open page post of Facebook
