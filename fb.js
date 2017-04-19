@@ -1,5 +1,5 @@
+var count = 1;
 setInterval(function(){
-	var count = 1;
 	function saveFile(data, fileName) {
 		var DOMURL = self.URL || self.webkitURL || self;
 		var blob = new Blob([data], {type: "text/plain;charset=utf-8"});
