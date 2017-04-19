@@ -15,4 +15,12 @@ Option 2:
   1. Add page bookmark with URL with content of script file fb.min.js
   2. Open page post of Facebook
 
+# Ouput
+
+[
+  {"id":"100011033496111","name":"Lã Phong Liu","comment":"Tặng e a thái a huấn theo rõi mấy năm rồi a"},
+  ....
+  ....
+]
+
 Thanks.
