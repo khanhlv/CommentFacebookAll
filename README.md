@@ -17,10 +17,10 @@ Option 2:
 
 # Ouput
 
-[
-  {"id":"100011033496111","name":"Lã Phong Liu","comment":"Tặng e a thái a huấn theo rõi mấy năm rồi a"},
-  ....
-  ....
+[<br>
+  {"id":"100011033496111","name":"Lã Phong Liu","comment":"Tặng e a thái a huấn theo rõi mấy năm rồi a"},<br>
+  ....<br>
+  ....<br>
 ]
 
 Thanks.
